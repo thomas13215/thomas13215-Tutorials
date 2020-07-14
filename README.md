@@ -9,9 +9,9 @@ Step by step guide on how to use this simple script!
 1. Copy the script
 `There are two options to select, here are both:`
 
-[**Standard Whitelist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Standard.lua)<br>
+[**PlayerAdded Whitelist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Standard.lua)<br>
 
-[**Blacklist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Blacklist.lua)<br>
+[**PlayerAdded Blacklist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Blacklist.lua)<br>
 
 2. In `Roblox Studio` Insert a new script into workspace OR open an already existing script
 
