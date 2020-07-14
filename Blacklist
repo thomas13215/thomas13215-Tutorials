@@ -1,16 +1,18 @@
-local usernames = { --table to define players
-    "name",
+local usernames = {
+	"name1",
     "name2",
 }
+--Put usernames above
 
-game.Players.PlayerAdded:Connect(function(plr) --function to get the player
-    for i, v in pairs(usernames) do --Check table
-      if v == plr.Name then
-          --whitelisted
-       else --If the player does not appear in the table
-          plr:Kick("Blacklisted") --Kicks the player
-      end
-    end
+game.Players.PlayerAdded:Connect(function(plr) -- Function gets the player
+	for i, v in pairs(usernames) do --Checking table
+		if v == plr.Name then --If the player is whitelisted
+			--insert function here
+        else
+            plr:Kick("Blacklisted") --kicks the player
+		end
+	end
 end)
 
 --Made by Fortress Master
+
