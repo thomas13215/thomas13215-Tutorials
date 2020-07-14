@@ -1,5 +1,5 @@
 local usernames = {
-	"name1",
+    "name1",
     "name2",
 }
 --Put usernames above
