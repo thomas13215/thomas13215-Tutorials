@@ -1,7 +1,7 @@
 --This is a treat I've added, basically it's a better whitelist, that's all
 
 local usernames = {
-    "thomas13215",
+    "name1",
     "name2",
 }
 --Put usernames above
