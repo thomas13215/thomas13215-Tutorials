@@ -1,4 +1,4 @@
-```
+
 local usernames = {
     "name1",
     "name2",
@@ -14,4 +14,4 @@ game.Players.PlayerAdded:Connect(function(plr) -- Function gets the player
 end)
 
 --Made by Fortress Master
-```
+
