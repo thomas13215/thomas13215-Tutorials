@@ -7,11 +7,13 @@ Watch the tutorial [**here**](https://www.youtube.com/watch?v=stpXI9zun5A)
 Step by step guide on how to use this simple script!
 
 1. Copy the script
-`There are two options to select, here are both:`
+`There are 3 options to choose, pick any!`
 
 [**PlayerAdded Whitelist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Standard.lua)<br>
 
 [**PlayerAdded Blacklist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Blacklist.lua)<br>
+
+[**Smoother/Better Whitelist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Better-Whitelist.lua)<br>
 
 2. In `Roblox Studio` Insert a new script into workspace OR open an already existing script
 
