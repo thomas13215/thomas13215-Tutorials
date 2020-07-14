@@ -1,5 +1,3 @@
-# Fe
-This repo was made to hold anything from my new tutorial videos from 2020 and up!
-### To begin just select the tutorial you have watched from my channel!
+# Roblox game whitelist
+This a whitelist system that you can use for anything you desire!
 
-![Welcome!](gitbhuyg.png)
