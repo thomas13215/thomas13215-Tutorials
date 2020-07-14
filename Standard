@@ -1,4 +1,4 @@
-```lua
+```
 local usernames = {
     "name1",
     "name2",
