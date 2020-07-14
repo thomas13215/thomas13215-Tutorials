@@ -1,0 +1,14 @@
+local usernames = { --table to define players
+    "name",
+    "name2",
+}
+
+game.Players.PlayerAdded:Connect(function(plr) --function to get the player
+    for i, v in pairs(usernames) do --Check table
+      if v == plr.Name then
+       --function here
+      end
+    end
+end)
+
+--Made by Fortress Master
