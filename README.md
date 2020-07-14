@@ -1,6 +1,7 @@
 # Roblox game whitelist
 
-This a whitelist system that you can use for anything you desire!
+This a whitelist system that you can use for anything you desire!<br>
+Watch the tutorial [**here**](https://www.youtube.com/watch?v=stpXI9zun5A)
 
 ### How to use
 Step by step guide on how to use this simple script!
