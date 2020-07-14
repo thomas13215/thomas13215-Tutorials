@@ -1,3 +1,21 @@
 # Roblox game whitelist
+
 This a whitelist system that you can use for anything you desire!
 
+### How to use
+Step by step guide on how to use this simple script!
+
+1. Copy the script
+`There are two options to select, here are both:`
+
+[**Standard Whitelist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Standard)<br>
+
+[**Blacklist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/Blacklist)<br>
+
+2. In `Roblox Studio` Insert a new script into workspace OR open an already existing script
+
+3. Inside the script, paste the Whitelist and edit the names
+
+4. Finished! Feel free to edit the script to fit your needs!
+
+# 5. Please like and subscribe :DDDD
