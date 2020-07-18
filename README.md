@@ -1,12 +1,24 @@
-# Fortress-Master-Tutorials
-This repo was made to hold anything from my new tutorial videos from 2020 and up!
-### To begin, scroll down and select the tutorial you've watched from my channel!
+# Roblox Gamepass Tools
 
-![Welcome!](kjgithub.png)
+This script gives players a certain tool, if they own a specific gamepass!<br>
+Watch the tutorial (coming soon)
 
-# Suggest something here:
-[**Suggestion form**](https://forms.gle/WQ6aBitCH9mYxQ8SA)<br>
+### How to use
+Step by step guide on how to use this simple script!
 
-# Available tutorials:
+1. Create your gamepass:<br>
+`This step can be found by watching the video at the designated time stamp`
 
-[**Roblox-Game Whitelist**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/README.md)<br>
+2. Copy the script:
+
+[**Click me**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Gamepass-Tools/GamepassScript.lua) to find the script!<br>
+
+3. In `Roblox studio` create a new script in workspace, and paste the code into said script <br>
+
+4. Place the tool of your choice into lighting and remember the name
+
+5. In the script edit everything needed `(Game pass ID and Tool name)`
+
+6. Finished!
+
+# 7. Please like and subscribe :DD
