@@ -17,7 +17,7 @@ Step by step guide on how to use this simple script!
 
 4. Place the tool of your choice into lighting and remember the name
 
-5. In the script edit everything needed `(Game pass ID and Tool name)`
+5. In the script edit everything needed `(Game pass ID and Tool name, timestamps found in video)`
 
 6. Finished!
 
