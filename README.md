@@ -11,7 +11,7 @@ Step by step guide on how to use this simple script!
 
 2. Copy the script:
 
-[**Click me**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Gamepass-Tools/GamepassScript.lua) to find the script!<br>
+   [**Click me**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Gamepass-Tools/GamepassScript.lua) to find the script!<br>
 
 3. In `Roblox studio` create a new script in workspace, and paste the code into said script <br>
 
