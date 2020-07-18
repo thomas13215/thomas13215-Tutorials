@@ -1,7 +1,7 @@
 # Roblox Gamepass Tools
 
 This script gives players a certain tool, if they own a specific gamepass!<br>
-Watch the tutorial (coming soon)
+Watch the tutorial [**here**](https://youtu.be/BwtRfBZoCl0)<br>
 
 ### How to use
 Step by step guide on how to use this simple script!
