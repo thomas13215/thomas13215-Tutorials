@@ -32,4 +32,4 @@ end)
 
 Players.CharacterAdded:Connect(onPlayerSpawned) --Ignore
 
---Made by Fortress Master
+--Credit to who ever made the original
