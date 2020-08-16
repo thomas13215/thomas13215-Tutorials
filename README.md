@@ -9,6 +9,6 @@ This repo was made to hold anything from my new tutorial videos from 2020 and up
 
 # Available tutorials:
 
-[**Roblox-Game Whitelist**](http://gestyy.com/ewBefl) | [**Mirror Link**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/README.md) <br>
+[**Roblox-Game Whitelist**](https://direct-link.net/62465/GameWhitelist) | [**Mirror Link**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/README.md) <br>
 
-[**Roblox Tool Gamepass**](http://gestyy.com/ewBejU)  | [**Mirror Link**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Gamepass-Tools/README.md) <br>
+[**Roblox Tool Gamepass**](https://direct-link.net/62465/GamepassTools)  | [**Mirror Link**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Gamepass-Tools/README.md) <br>
