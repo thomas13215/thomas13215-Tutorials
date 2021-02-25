@@ -1,4 +1,4 @@
-# Fortress-Master-Tutorials
+# thomas13215-Tutorials
 This repo was made to hold anything from my new tutorial videos from 2020 and up!
 ### To begin, scroll down and select the tutorial you've watched from my channel!
 
