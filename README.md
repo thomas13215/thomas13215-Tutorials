@@ -3,17 +3,8 @@
 ### thomas13215 tutorials has moved!
 ### All new scripts will be posted [**here**](https://discord.gg/fsSyTza) instead!
 ### (Scroll down for old series 2 tutorials)
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 
+#
 This repo was made to hold anything from my new tutorial videos from 2020 and up!
 ### To begin, scroll down and select the tutorial you've watched from my channel!
 
@@ -24,6 +15,6 @@ This repo was made to hold anything from my new tutorial videos from 2020 and up
 
 # Available tutorials:
 
-[**Roblox-Game Whitelist**](https://direct-link.net/149198/GameWhitelist) | [**Mirror Link**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Game-Whitelist/README.md) <br>
+[**Roblox-Game Whitelist**](http://fumacrom.com/2aIH)
 
-[**Roblox Tool Gamepass**](https://direct-link.net/149198/GamePassTools)  | [**Mirror Link**](https://github.com/thomas13215/Fortress-Master-Tutorials/blob/Gamepass-Tools/README.md) <br>
+[**Roblox Tool Gamepass**](http://fumacrom.com/2aIo)
