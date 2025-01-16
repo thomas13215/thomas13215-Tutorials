@@ -17,4 +17,4 @@ This repo was made to hold anything from my new tutorial videos from 2020 and up
 
 [**Roblox-Game Whitelist**](http://fumacrom.com/2aIH)
 
-[**Roblox Tool Gamepass**](http://fumacrom.com/2aIo)
+[**Roblox Tool Gamepass**](https://github.com/thomas13215/thomas13215-Tutorials/tree/Gamepass-Tools?tab=readme-ov-file)
