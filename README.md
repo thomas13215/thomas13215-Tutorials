@@ -1,7 +1,7 @@
 # thomas13215-Tutorials
 
 ### thomas13215 tutorials has moved!
-### All new scripts will be posted [**here**](https://discord.gg/fsSyTza) instead!
+### All new scripts will be posted [**here**](https://discord.gg/UsUyUXUEQ8) instead!
 ### (Scroll down for old series 2 tutorials)
 
 #
